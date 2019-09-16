@@ -9,12 +9,12 @@
             "email": "michele.angioni@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.6.0",
+     "require": {
+        "php": ">=7.0.0",
         "laravel/framework": "^6.0"
     },
     "require-dev": {
-        "mockery/mockery": "dev-master",
+       "mockery/mockery": "^1.0",
        "phpunit/phpunit": "^8.0"
     },
     "autoload": {
