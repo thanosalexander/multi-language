@@ -22,6 +22,8 @@
         "psr-4": {
             "MicheleAngioni\\MultiLanguage\\": "src/MicheleAngioni/MultiLanguage"
         }
-    }
+    },
+      "minimum-stability": "dev",
+    "prefer-stable": true
     
 }
